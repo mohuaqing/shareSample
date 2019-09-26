@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShareSample</string>
+    <string name="facebook_app_id">2247359972241035</string>
+    <string name="file_provider_authories">com.lazadazal.android.share.FileProvider</string>
+
+    <string name="facebook_file_provider">com.facebook.app.FacebookContentProvider2247359972241035</string>
+
+</resources>
